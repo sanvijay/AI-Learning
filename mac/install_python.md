@@ -1,4 +1,4 @@
-# Install conda to manage
+# Install conda to manage environments
 Conda is an open-source, cross-platform, language-agnostic package manager and environment management system.
 
  - [brew install anaconda](https://formulae.brew.sh/cask/anaconda)
